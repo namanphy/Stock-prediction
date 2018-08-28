@@ -1,5 +1,6 @@
 Predicting Daily Close Stock Prices
 
+
 The aim of this investigate using machine learning in trading equities, specifically to predict stock close prices for a 7-day period.
 
 Description of Dataset
